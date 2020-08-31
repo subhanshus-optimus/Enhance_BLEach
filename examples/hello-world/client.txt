@@ -1,0 +1,23 @@
+Sorry, try again.
+using saved target 'srf06-cc26xx'
+../../tools/sky/serialdump-linux -b115200 /dev/ttyACM0
+connecting to /dev/ttyACM0 (115200) [OK]
+Starting Contiki-list-1533-gb7d94ec
+With DriverLib v0.47020
+TI SmartRF06EB + CC26xx EM
+IEEE 802.15.4: Yes, Sub-GHz: No, BLE: Yes, Prop: Yes
+ Net: sicslowpan
+ MAC: CSMA
+ RDC: ContikiMAC, Channel Check Interval: 16 ticks
+ RF: Channel 25
+Random No is: 56351
+Random No is: 17232
+Random No is: 12105
+Random No is: 21812
+Random No is: 17883
+Random No is: 39362
+Random No is: 65349
+Random No is: 7165
+Random No is: 19378
+Random No is: 46145
+Largest random no is: 65535

@@ -1,0 +1,41 @@
+using saved target 'srf06-cc26xx'
+../../../tools/sky/serialdump-linux -b115200 /dev/ttyACM2
+connecting to /dev/ttyACM2 (115200) [OK]
+ÚtÿStarting Contiki-list-1533-gb7d94ec
+With DriverLib v0.47020
+TI SmartRF06EB + CC26xx EM
+IEEE 802.15.4: Yes, Sub-GHz: No, BLE: Yes, Prop: Yes
+ Net: sicslowpan
+ MAC: ble-l2cap
+ RDC: ble-null-par
+CC26XX-IPv6-over-BLE client-master started
+pinging the IPv6-over-BLE server-slave: echo response received
+Echo response is received
+Connection is created
+echo response received
+Probe signal is received
+Probe signal is received
+Probe signal is received
+rec. message: This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as : Type A
+Probe signal is received
+Probe signal is received
+Probe signal is received
+connection_update: handle: 0x0000, interval:  250, latency:  0, timeout:    0
+rec. message: This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as : Type C
+Probe signal is received
+Probe signal is received
+Probe signal is received
+connection_update: handle: 0x0000, interval:   50, latency:  0, timeout:    0
+rec. message: This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as : Type A
+Probe signal is received
+Probe signal is received
+Probe signal is received
+connection_update: handle: 0x0000, interval:  250, latency:  0, timeout:    0
+rec. message: This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as : Type C
+Probe signal is received
+Probe signal is received
+Probe signal is received
+rec. message: This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as This is a long data message and will be of repeating nature as : Type C
+Probe signal is received
+Probe signal is received
+Probe signal is received

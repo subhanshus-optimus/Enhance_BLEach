@@ -1,0 +1,45 @@
+using saved target 'srf06-cc26xx'
+../../../tools/sky/serialdump-linux -b115200 /dev/ttyACM0
+connecting to /dev/ttyACM0 (115200) [OK]
+Starting Contiki-list-1533-gb7d94ec
+With DriverLib v0.47020
+TI SmartRF06EB + CC26xx EM
+IEEE 802.15.4: Yes, Sub-GHz: No, BLE: Yes, Prop: Yes
+ Net: sicslowpan
+ MAC: ble-l2cap
+ RDC: ble-adapt-par
+CC26XX-IPv6-over-BLE client started
+Probe signal is sent having packet count:- 1
+Round trip delay is: 0.125 seconds for packet count:- 1
+Probe signal is sent having packet count:- 2
+Round trip delay is: 0.125 seconds for packet count:- 2
+Probe signal is sent having packet count:- 3
+Round trip delay is: 0.117 seconds for packet count:- 3
+Average round trip delay is 0.122
+A new message is sent of message type Type A
+Probe signal is sent having packet count:- 4
+Round trip delay is: 0.101 seconds for packet count:- 4
+Probe signal is sent having packet count:- 5
+Round trip delay is: 0.093 seconds for packet count:- 5
+Probe signal is sent having packet count:- 6
+Round trip delay is: 0.085 seconds for packet count:- 6
+Average round trip delay is 0.108
+Traffic type is changed and current type is: Type C and previous is: Type A
+connection_update: handle: 0x0000, interval:  250, latency:  0, timeout:    0
+Changing conn_interval and slave latency from 50 and 0  to 0 and 0
+A new message is sent of message type Type C
+Probe signal is sent having packet count:- 7
+Round trip delay is: 0.492 seconds for packet count:- 7
+Probe signal is sent having packet count:- 8
+Round trip delay is: 0.492 seconds for packet count:- 8
+Probe signal is sent having packet count:- 9
+Round trip delay is: 0.484 seconds for packet count:- 9
+Average round trip delay is 0.489
+Traffic type is changed and current type is: Type A and previous is: Type C
+connection_update: handle: 0x0000, interval:   50, latency:  0, timeout:    0
+Changing conn_interval and slave latency from 250 and 0  to 0 and 0
+A new message is sent of message type Type A
+Probe signal is sent having packet count:- 0
+Round trip delay is: 0.078 seconds for packet count:- 0
+Probe signal is sent having packet count:- 1
+Round trip delay is: 0.070 seconds for packet count:- 1
