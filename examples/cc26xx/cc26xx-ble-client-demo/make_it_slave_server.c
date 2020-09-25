@@ -62,7 +62,7 @@ int count=0;
 
 //char *traffictype[11]={"Type A","Type C","Type A","Type C","Type C","Type C","Type C","Type C","Type B","Type B","Type A"};
 
-char* newTrafficGenerator(void)
+char* return_randomized_traffic(void)
 {
 
 	int i;
@@ -88,7 +88,7 @@ char* newTrafficGenerator(void)
 static void send_datamessage(void)
 {
 	char *data_message;	
-	data_message = newTrafficGenerator();
+	data_message = return_randomized_traffic();
 	send_message(conn, data_message, strlen(data_message));
 	printf("A new message is sent of message type %s\n",c);
 	
